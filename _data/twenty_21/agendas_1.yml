@@ -1,17 +1,17 @@
-- time: 14:00 - 14:10
-  info: "Welcome address"
+- time: 14:00 - 14:30
+  info: "Welcome and setup"
 
-- time: 14:10 - 15:00
-  info: "Introductions<br><b>pyMOR School participants</b>"
+- time: 14:30 - 16:00
+  info: "pyMOR philosophy and introduction<br><b>Dr. Petar Mlinarić, Dr. Stephan Rave</b>"
 
-- time: 15:00 - 16:30
-  info: "Reduced Basis Methods (1/2)<br><b>Dr. Stephan Rave</b>"
-
-- time: 16:30 - 17:00
+- time: 16:00 - 16:30
   info: "Coffee break"
 
-- time: 17:00 - 19:00
-  info: "Interactive session"
+- time: 16:30 - 17:15
+  info: "Introductions<br><b>pyMOR School participants</b>"
+
+- time: 17:15 - 19:00
+  info: "Interactive session/Installation help"
 
 - time: 19:00 -
   info: "Get-together"
