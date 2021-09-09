@@ -33,7 +33,7 @@ pages:
         - make CONFIG="_config.yml,_config_staging.yml"  build
         - mv _site public
     only:
-      - "2021"
+      - "agenda"
     artifacts:
         paths:
             - public
