@@ -2,7 +2,7 @@
   info: "Welcome and setup"
 
 - time: 14:30 - 16:00
-  info: "pyMOR philosophy and introduction<br><b>Dr. Petar Mlinarić, Dr. Stephan Rave</b>"
+  info: "Model Order Reduction with pyMOR: an Interactive Crash Course<br><b>Dr. Petar Mlinarić, Dr. Stephan Rave</b>"
 
 - time: 16:00 - 16:30
   info: "Coffee break"
